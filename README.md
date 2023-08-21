@@ -1,16 +1,13 @@
-### Hi there 👋
+# 👋🕶️ [About me](https://github.com/ffelipesimoes)
 
-<!--
-**danielarruda07/danielarruda07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐍 Felipe Simões. </br>
+💻 MBA in Blockchain Applications.</br>
+🏠 World's citzen minted in Brazil 🇧🇷. <br/>
+👨‍💻 I’m a Web3 Developer with background in infrastructure on premise, Clould and Devops.<br/>
+💳 Now on board of [Zoop](https://www.zoopcards.com/) team, as Blockchain Devops Engineer.</br>
+🔭 Researching web3, smart contracts and blockchain.<br/>
+👁️‍🗨️ I speak Portuguese and English.</br>
+😎 My hobbies are playing guitar and make people laugh.</br>
+🎩 I am a startup enthusiast, love to talk about new projects and business ideas .</br>
+👽 People consider me a proactive and a problem solver .</br>
+🍕 Always open to new programming projects.</br>
