@@ -1,9 +1,9 @@
 # 👋🕶️ [About me](https://github.com/ffelipesimoes)
 
-🐍 Felipe Simões. </br>
-💻 MBA in Blockchain Applications.</br>
+🐍 Daniel Arrudda</br>
+💻 MCSE Windows Server 2008</br>
 🏠 World's citzen minted in Brazil 🇧🇷. <br/>
-👨‍💻 I’m a Web3 Developer with background in infrastructure on premise, Clould and Devops.<br/>
+💻 VCP Vmware 5.5</br>
 💳 Now on board of [Zoop](https://www.zoopcards.com/) team, as Blockchain Devops Engineer.</br>
 🔭 Researching web3, smart contracts and blockchain.<br/>
 👁️‍🗨️ I speak Portuguese and English.</br>
