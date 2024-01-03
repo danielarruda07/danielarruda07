@@ -10,3 +10,7 @@
 💻 Linux</br>
 👽 People consider me a proactive and a problem solver .</br>
 🍕 Always open to new programming projects.</br>
+
+# Comando Docker
+## Instalar Docker
+`code`
